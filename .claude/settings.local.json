@@ -91,7 +91,9 @@
       "mcp__plugin_greptile_greptile__search_custom_context",
       "mcp__plugin_greptile_greptile__list_code_reviews",
       "WebFetch(domain:useworkflow.dev)",
-      "Bash(pnpm test:*)"
+      "Bash(pnpm test:*)",
+      "mcp__9d113fc7-8877-48f5-a5f9-1c20dd19259c__create_file",
+      "mcp__cb668214-a235-4cf2-9a36-82b1c8ecac9b__notion-create-pages"
     ],
     "deny": [],
     "ask": []
